@@ -1,6 +1,6 @@
 # anti_search_filter
 
-## 这个插件的目的是过滤污染github搜索结果的仓库，在background.js中可以自行添加需要屏蔽的人
+## 这个插件是为了过滤污染github搜索结果的仓库，在background.js中可以自行添加需要屏蔽的user
 
 插件用法，输入chrome://extensions/跳转到chrome插件管理中心
 
