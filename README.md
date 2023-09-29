@@ -1,0 +1,2 @@
+# anti_search_filter
+这个插件的目的是过滤污染github搜索结果的人
